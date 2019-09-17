@@ -2,6 +2,7 @@
 
 Following project is a demonstration of OAuth2 using Spring Boot 2 & Spring Security 5.1.
 As Authorization Server's isn't supported in Spring Security 5.1 is this application, as exception, implemented using Spring Security Oauth.
+
 The demo is setup to use authorization code grant type.
 
 The maven project consist of 3 sub-modules:
