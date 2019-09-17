@@ -1,0 +1,10 @@
+server:
+  port: 8082
+
+user.oauth:
+  clientId: oauth-client
+  clientSecret: noonewilleverguess
+  redirectUris: http://localhost:8080/login/oauth2/code/oauth-demo-auth
+  user:
+    username: u
+    password: p
